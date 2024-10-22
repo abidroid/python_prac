@@ -7,3 +7,16 @@ Select Operation:
 3. Multiplication
 4. Division
 Your choice: ? """
+
+choice = input(message)
+
+if choice == "1":
+    print(num1 + num2)
+elif choice == "2":
+    print(num1 - num2)
+elif choice == "3":
+    print(num1 * num2)
+elif choice == "4":
+    print(num1 / num2)
+else:
+    print("Invalid input")
