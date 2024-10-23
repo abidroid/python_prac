@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dff25040-dffa-44b9-9b56-43a23cb32b1f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/coordinate_system.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,7 @@
     "Python.basic_arithmetics.executor": "Run",
     "Python.bill_calculator.executor": "Run",
     "Python.even_odd.executor": "Run",
+    "Python.fizz_buzz.executor": "Run",
     "Python.main.executor": "Run",
     "Python.number_guessing_game.executor": "Run",
     "Python.simple_calculator.executor": "Run",
@@ -90,6 +91,7 @@
       <workItem from="1729443514433" duration="394000" />
       <workItem from="1729528371342" duration="1910000" />
       <workItem from="1729603902400" duration="2333000" />
+      <workItem from="1729654969174" duration="351000" />
     </task>
     <servers />
   </component>
