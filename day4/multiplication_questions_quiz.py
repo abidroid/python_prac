@@ -7,7 +7,7 @@ while count <= 4:
     num2 = random.randint(2, 9)
     correct_answer = num1 * num2
 
-    user_answer = input(num1, " X ", num2, " = ")
+    user_answer = int(input(f"{num1} x {num2} = "))
     if user_answer == correct_answer:
         print("Correct!")
     else:
