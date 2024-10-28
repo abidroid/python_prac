@@ -1,4 +1,4 @@
-
+# Program to find the max number in list
 list = [ 4, 87, 34, 87, 32, 98, 7, 45, 76]
 
 largest = list[0]
