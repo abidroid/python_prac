@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dff25040-dffa-44b9-9b56-43a23cb32b1f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day4/multiplication_questions_quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/day4/multiplication_questions_quiz.py" afterDir="false" />
-    </list>
+    <list default="true" id="dff25040-dffa-44b9-9b56-43a23cb32b1f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,32 +43,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.band_name_generator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.basic_arithmetics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bill_calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.coordinate_system.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dice_roll_frequency.executor&quot;: &quot;Run&quot;,
-    &quot;Python.even_odd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fizz_buzz.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_basics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.multiplication_questions_quiz.executor&quot;: &quot;Run&quot;,
-    &quot;Python.number_guessing_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.simple_calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.table.executor&quot;: &quot;Run&quot;,
-    &quot;Python.who_pay_the_bill.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.band_name_generator.executor": "Run",
+    "Python.basic_arithmetics.executor": "Run",
+    "Python.bill_calculator.executor": "Run",
+    "Python.coordinate_system.executor": "Run",
+    "Python.dice_roll_frequency.executor": "Run",
+    "Python.even_odd.executor": "Run",
+    "Python.fizz_buzz.executor": "Run",
+    "Python.list_basics.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.multiplication_questions_quiz.executor": "Run",
+    "Python.number_guessing_game.executor": "Run",
+    "Python.rock_paper_scissors.executor": "Run",
+    "Python.simple_calculator.executor": "Run",
+    "Python.table.executor": "Run",
+    "Python.who_pay_the_bill.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/day1" />
@@ -103,7 +101,7 @@
       <workItem from="1729831666372" duration="11000" />
       <workItem from="1729915644999" duration="1042000" />
       <workItem from="1730046576226" duration="841000" />
-      <workItem from="1730092506565" duration="36000" />
+      <workItem from="1730092506565" duration="135000" />
     </task>
     <servers />
   </component>
@@ -125,5 +123,6 @@
     <SUITE FILE_PATH="coverage/python_prac$even_odd.coverage" NAME="even_odd Coverage Results" MODIFIED="1729614779979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
     <SUITE FILE_PATH="coverage/python_prac$main.coverage" NAME="main Coverage Results" MODIFIED="1729405248469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_prac$simple_calculator.coverage" NAME="simple_calculator Coverage Results" MODIFIED="1729614115820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
+    <SUITE FILE_PATH="coverage/python_prac$rock_paper_scissors.coverage" NAME="rock_paper_scissors Coverage Results" MODIFIED="1730092600087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
   </component>
 </project>
