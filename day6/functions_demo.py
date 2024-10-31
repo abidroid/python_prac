@@ -3,4 +3,8 @@ def table():
         print(6, " X ", i, " = ", 6*i)
 
 
-table()
+def greet_user(user):
+    print(f"Welcome {user}")
+
+greet_user("Ali")
+#table()
