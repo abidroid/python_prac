@@ -46,38 +46,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.band_name_generator.executor": "Run",
-    "Python.basic_arithmetics.executor": "Run",
-    "Python.bill_calculator.executor": "Run",
-    "Python.coordinate_system.executor": "Run",
-    "Python.dice_roll_frequency.executor": "Run",
-    "Python.even_odd.executor": "Run",
-    "Python.fizz_buzz.executor": "Run",
-    "Python.fizz_buzz_loop.executor": "Run",
-    "Python.functions_demo.executor": "Run",
-    "Python.list_basics.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.max_in_list.executor": "Run",
-    "Python.multiplication_questions_quiz.executor": "Run",
-    "Python.number_guessing_game.executor": "Run",
-    "Python.password_generator.executor": "Run",
-    "Python.rock_paper_scissors.executor": "Run",
-    "Python.simple_calculator.executor": "Run",
-    "Python.sum_of_list_items.executor": "Run",
-    "Python.table.executor": "Run",
-    "Python.who_pay_the_bill.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.band_name_generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basic_arithmetics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bill_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coordinate_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dice_roll_frequency.executor&quot;: &quot;Run&quot;,
+    &quot;Python.even_odd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fizz_buzz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fizz_buzz_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functions_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_basics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.max_in_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiplication_questions_quiz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number_guessing_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password_generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rock_paper_scissors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.simple_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum_of_list_items.executor&quot;: &quot;Run&quot;,
+    &quot;Python.table.executor&quot;: &quot;Run&quot;,
+    &quot;Python.who_pay_the_bill.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/day1" />
@@ -113,7 +113,8 @@
       <workItem from="1730131859746" duration="2476000" />
       <workItem from="1730225093633" duration="743000" />
       <workItem from="1730266316928" duration="988000" />
-      <workItem from="1730348638707" duration="1140000" />
+      <workItem from="1730348638707" duration="1496000" />
+      <workItem from="1730474672275" duration="356000" />
     </task>
     <servers />
   </component>
@@ -131,7 +132,7 @@
     <SUITE FILE_PATH="coverage/python_prac$dice_roll_frequency.coverage" NAME="dice_roll_frequency Coverage Results" MODIFIED="1729915925023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
     <SUITE FILE_PATH="coverage/python_prac$coordinate_system.coverage" NAME="coordinate_system Coverage Results" MODIFIED="1729655720476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
     <SUITE FILE_PATH="coverage/python_prac$table.coverage" NAME="table Coverage Results" MODIFIED="1729419579950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/adan" />
-    <SUITE FILE_PATH="coverage/python_prac$functions_demo.coverage" NAME="functions_demo Coverage Results" MODIFIED="1730352804491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day6" />
+    <SUITE FILE_PATH="coverage/python_prac$functions_demo.coverage" NAME="functions_demo Coverage Results" MODIFIED="1730352876091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day6" />
     <SUITE FILE_PATH="coverage/python_prac$bill_calculator.coverage" NAME="bill_calculator Coverage Results" MODIFIED="1729443801870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
     <SUITE FILE_PATH="coverage/python_prac$multiplication_questions_quiz.coverage" NAME="multiplication_questions_quiz Coverage Results" MODIFIED="1730047335559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
     <SUITE FILE_PATH="coverage/python_prac$max_in_list.coverage" NAME="max_in_list Coverage Results" MODIFIED="1730132513466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/adan" />

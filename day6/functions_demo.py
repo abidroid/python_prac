@@ -6,9 +6,13 @@ def table():
 def greet_user(user):
     print(f"Welcome {user}")
 
-def sum(a, b):
+def sum_of_two_nums(a, b):
     print(f"The sum of {a} and {b} is {a+b}")
 
-sum(3, 5)
+def square(num):
+    return num*num
+
+print(f"Square of 10 is {square(10)}")
+sum_of_two_nums(3, 5)
 greet_user("Ali")
 #table()
