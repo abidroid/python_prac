@@ -19,7 +19,17 @@ def is_even( num ):
         return False
 
 
-print(is_even(5))
+def factorial(num):
+    factorial_of_num = 1
+    for i in range(2, num+1):
+        factorial_of_num *= i
+    return factorial_of_num
+
+for i in range( 1, 11):
+    print(f"{i}! = {factorial(i)}")
+
+
+#print(is_even(5))
 
 
 
