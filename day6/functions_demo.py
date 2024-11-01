@@ -12,7 +12,18 @@ def sum_of_two_nums(a, b):
 def square(num):
     return num*num
 
-print(f"Square of 10 is {square(10)}")
-sum_of_two_nums(3, 5)
-greet_user("Ali")
+def is_even( num ):
+    if num % 2 == 0:
+        return True
+    else:
+        return False
+
+
+print(is_even(5))
+
+
+
+# print(f"Square of 10 is {square(10)}")
+# sum_of_two_nums(3, 5)
+#greet_user("Ali")
 #table()
