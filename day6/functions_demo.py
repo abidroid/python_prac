@@ -1,3 +1,5 @@
+
+
 def table():
     for i in range(1, 11):
         print(6, " X ", i, " = ", 6*i)
@@ -25,8 +27,20 @@ def factorial(num):
         factorial_of_num *= i
     return factorial_of_num
 
-for i in range( 1, 11):
-    print(f"{i}! = {factorial(i)}")
+def product_without_asterisk(num1, num2):
+    product = num1
+    count = 2
+    while count <= num2:
+        product += num1
+        count += 1
+    print(product)
+
+
+
+product_without_asterisk(4,5)
+
+# for i in range( 1, 11):
+#     print(f"{i}! = {factorial(i)}")
 
 
 #print(is_even(5))
