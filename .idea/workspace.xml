@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dff25040-dffa-44b9-9b56-43a23cb32b1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day7/hangman_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/dictionary_demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/hangman_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/day7/hangman_game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,7 @@
     &quot;Python.fizz_buzz.executor&quot;: &quot;Run&quot;,
     &quot;Python.fizz_buzz_loop.executor&quot;: &quot;Run&quot;,
     &quot;Python.functions_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hangman_game.executor&quot;: &quot;Run&quot;,
     &quot;Python.list_basics.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.max_in_list.executor&quot;: &quot;Run&quot;,
@@ -120,7 +122,8 @@
       <workItem from="1730526382952" duration="4098000" />
       <workItem from="1730564871096" duration="578000" />
       <workItem from="1730566502229" duration="2000" />
-      <workItem from="1730618790882" duration="652000" />
+      <workItem from="1730618790882" duration="1605000" />
+      <workItem from="1730737140899" duration="281000" />
     </task>
     <servers />
   </component>
@@ -150,5 +153,6 @@
     <SUITE FILE_PATH="coverage/python_prac$main.coverage" NAME="main Coverage Results" MODIFIED="1729405248469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_prac$simple_calculator.coverage" NAME="simple_calculator Coverage Results" MODIFIED="1729614115820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
     <SUITE FILE_PATH="coverage/python_prac$rock_paper_scissors.coverage" NAME="rock_paper_scissors Coverage Results" MODIFIED="1730092600087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
+    <SUITE FILE_PATH="coverage/python_prac$hangman_game.coverage" NAME="hangman_game Coverage Results" MODIFIED="1730645474320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7" />
   </component>
 </project>
