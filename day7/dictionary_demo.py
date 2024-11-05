@@ -21,3 +21,17 @@ print(student)
 # Updating an existing key's value
 student["grade"] = "A+"
 print(student)
+
+# REMOVING ENTRIES
+# Using del
+del student["grade"]
+print(student)
+
+age = student.pop("age")
+print(age)
+print(student)
+
+last_item = student.popitem()
+print(last_item)
+print(student)
+
