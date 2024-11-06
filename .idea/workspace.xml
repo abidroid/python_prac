@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dff25040-dffa-44b9-9b56-43a23cb32b1f" name="Changes" comment="" />
+    <list default="true" id="dff25040-dffa-44b9-9b56-43a23cb32b1f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/adan/swapping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,10 +67,12 @@
     "Python.multiplication_questions_quiz.executor": "Run",
     "Python.number_guessing_game.executor": "Run",
     "Python.password_generator.executor": "Run",
+    "Python.product_without_asterisk.executor": "Run",
     "Python.race_laps_time.executor": "Run",
     "Python.rock_paper_scissors.executor": "Run",
     "Python.simple_calculator.executor": "Run",
     "Python.sum_of_list_items.executor": "Run",
+    "Python.swapping.executor": "Run",
     "Python.table.executor": "Run",
     "Python.test_age.executor": "Run",
     "Python.who_pay_the_bill.executor": "Run",
@@ -125,7 +130,8 @@
       <workItem from="1730737140899" duration="1158000" />
       <workItem from="1730802099193" duration="1769000" />
       <workItem from="1730804585979" duration="216000" />
-      <workItem from="1730866434983" duration="1854000" />
+      <workItem from="1730866434983" duration="3238000" />
+      <workItem from="1730872202156" duration="590000" />
     </task>
     <servers />
   </component>
@@ -153,6 +159,8 @@
     <SUITE FILE_PATH="coverage/python_prac$function_arguments.coverage" NAME="function_arguments Coverage Results" MODIFIED="1730867654001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8" />
     <SUITE FILE_PATH="coverage/python_prac$list_basics.coverage" NAME="list_basics Coverage Results" MODIFIED="1729737585290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
     <SUITE FILE_PATH="coverage/python_prac$fizz_buzz_loop.coverage" NAME="fizz_buzz_loop Coverage Results" MODIFIED="1730225121897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/python_prac$swapping.coverage" NAME="swapping Coverage Results" MODIFIED="1730872327965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/adan" />
+    <SUITE FILE_PATH="coverage/python_prac$product_without_asterisk.coverage" NAME="product_without_asterisk Coverage Results" MODIFIED="1730870604263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/adan" />
     <SUITE FILE_PATH="coverage/python_prac$functions_demo.coverage" NAME="functions_demo Coverage Results" MODIFIED="1730542665993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day6" />
     <SUITE FILE_PATH="coverage/python_prac$bill_calculator.coverage" NAME="bill_calculator Coverage Results" MODIFIED="1729443801870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
     <SUITE FILE_PATH="coverage/python_prac$max_in_list.coverage" NAME="max_in_list Coverage Results" MODIFIED="1730132513466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/adan" />
