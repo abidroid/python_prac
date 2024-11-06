@@ -35,3 +35,12 @@ last_item = student.popitem()
 print(last_item)
 print(student)
 
+# Loop over dictionary
+for key in student.keys():
+    print(key)
+
+for value in student.values():
+    print(value)
+
+for key, value in student.items():
+    print(key, value)
