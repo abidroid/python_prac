@@ -44,3 +44,4 @@ for value in student.values():
 
 for key, value in student.items():
     print(key, value)
+
