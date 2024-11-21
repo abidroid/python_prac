@@ -6,5 +6,6 @@ table.add_column('Company', ['Meta', 'Google', 'Microsoft'])
 table.add_column('Language', ['Javascript', 'Dart', 'C#'])
 
 table.align = 'l'
-table.border = False
+#table.border = False
+table.add_column('S.No', ["1", "2", "3"])
 print(table)
